@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tiagofukugauti
 - 👀 I’m interested in Data Science and Full Stack Development 
-- 🌱 I’m currently learning ML, Python, HTML, CSS and JS
+- 🌱 I’m currently learning ML, Python, HTML, CSS, JS and React
 - 📫 How to reach me https://www.linkedin.com/in/tiagofukugauti/
 
 <!---
